@@ -4,7 +4,7 @@ A comprehensive and continuously evolving cybersecurity home lab built with Virt
 
 ## 📋 Table of Contents
 
-- [Purpose](#purpose)
+- [🎯 Purpose](#purpose)
 - [Lab Architecture](#lab-architecture)
 - [Host Machine Specifications](#host-machine-specifications)
 - [Virtual Machines](#virtual-machines)
