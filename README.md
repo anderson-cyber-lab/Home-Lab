@@ -306,6 +306,7 @@ This documentation is provided as-is for personal educational purposes.
 ## 🤝 Contributing
 
 This is a personal lab environment. Suggestions and improvements are welcome through documentation updates.
+All credit goes to @JackedProgrammer on youtube for setup and how-to video series
 
 ---
 
