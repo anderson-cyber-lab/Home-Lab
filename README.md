@@ -142,7 +142,7 @@ The lab is configured with multiple virtual networks to simulate realistic netwo
 - **Target Network**: Metasploitable 2 & 3 (isolated from direct access)
 - **Agent Communication**: Secure channels for Wazuh agents to report to central server
 
-For detailed network configuration, see [NETWORK.md](https://github.com/anderson-cyber-lab/Home-Lab/blob/main/NETWORK.md)
+For detailed network configuration, see [NETWORK.md](https://github.com/anderson-cyber-lab/Home-Lab/blob/main/NETWORK.md) and [NETWORK-TOPOLOGY.md](https://github.com/anderson-cyber-lab/Home-Lab/blob/main/NETWORK-TOPOLOGY.md)
 
 ---
 
