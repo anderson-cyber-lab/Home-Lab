@@ -1,8 +1,25 @@
-# Documentation Links
+# Purpose
+This document provides detailed information about the Home Lab environment set up by Anderson Cyber Lab. It highlights the goals, configurations, and projects undertaken within this lab.
 
-- [NETWORK.md](https://github.com/anderson-cyber-lab/Home-Lab/blob/main/NETWORK.md)  
-- [NETWORK-TOPOLOGY.md](https://github.com/anderson-cyber-lab/Home-Lab/blob/main/NETWORK-TOPOLOGY.md)  
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Setup Overview](#setup-overview)
+3. [NETWORK-TOPOLOGY.md](NETWORK-TOPOLOGY.md)
+4. [Projects](#projects)
+5. [Future Work](#future-work)
+6. [Acknowledgements](#acknowledgements)
 
-## Other Updates
+# Introduction
+This section explains the Home Lab's objectives.
 
-We have added a new document called NETWORK-TOPOLOGY.md to provide a detailed view of our network's architecture.
+# Setup Overview
+Here you will find an outline of the lab's hardware and software configurations.
+
+# Projects
+Details on the various projects pursued within the lab.
+
+# Future Work
+A look at what is planned for the lab's development.
+
+# Acknowledgements
+Credits to individuals or resources that contributed to the lab.
