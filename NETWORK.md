@@ -9,13 +9,13 @@ This document outlines the detailed network topology for our lab environment.
 - **Firewall**: pfSense
 
 ### Subnets
-- **192.168.1.0/24**: Internal Network
-- **192.168.2.0/24**: Management Network
+- **172.30.2.0/24**: Internal Network
+- **192.168.0.0/24**: Management Network
 
 ## Firewall Configuration Rules
 
 1. **Allow Internal Traffic**
-   - Source: 192.168.1.0/24
+   - Source: 172.30.2.0/24
    - Destination: Any
    - Action: Allow
 
