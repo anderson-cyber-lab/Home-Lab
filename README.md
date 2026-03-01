@@ -8,7 +8,7 @@ A comprehensive and continuously evolving cybersecurity home lab built with Virt
 - [Lab Architecture](#lab-architecture)
 - [Host Machine Specifications](#host-machine-specifications)
 - [Virtual Machines](#virtual-machines)
-- [Network Topology](#network-topology)
+- [🌐 Network Topology](#network-topology)
 - [Tools & Technologies](#tools--technologies)
 - [Lab Setup](#lab-setup)
 - [Usage & Labs](#usage--labs)
